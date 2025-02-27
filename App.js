@@ -1,7 +1,6 @@
-// App.tsx
 import React from 'react';
 import { SafeAreaView } from 'react-native';
-import WelcomeScreen from './src/components/WelcomeScreen';
+import WelcomeScreen from './WelcomeScreen';
 
 const App = () => {
   return (
